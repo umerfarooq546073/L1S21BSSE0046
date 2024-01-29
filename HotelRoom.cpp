@@ -26,6 +26,11 @@ void CheckAvail()
 {
     cout<<" check availaibilty";
 }
+void Payment()
+{
+    cout<<" check Payment";
+}
+
 
 
       
