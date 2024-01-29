@@ -18,6 +18,10 @@ void ViewHotelDetail()
 {
     cout<<"hotel Detail";
 }
+void bookingRoom()
+{
+    cout<<"Booking Room";
+}
 
 
       
