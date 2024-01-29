@@ -14,6 +14,12 @@ void searchHotel
 {
     cout<<"search Hotel";
 }
+void ViewHotelDetail()
+{
+    cout<<"hotel Detail";
+}
+
+
       
     };
 
