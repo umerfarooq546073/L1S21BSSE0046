@@ -22,6 +22,10 @@ void bookingRoom()
 {
     cout<<"Booking Room";
 }
+void CheckAvail()
+{
+    cout<<" check availaibilty";
+}
 
 
       
