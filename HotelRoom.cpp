@@ -9,7 +9,11 @@ private:
         std::string roomType;
         double price;
         bool isAvailable;
-
+public:
+void searchHotel
+{
+    cout<<"search Hotel";
+}
       
     };
 
